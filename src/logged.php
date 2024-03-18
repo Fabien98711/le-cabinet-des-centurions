@@ -1,4 +1,3 @@
-
 <?php session_start(); ?>
 
 <!DOCTYPE html>
@@ -37,12 +36,12 @@
                 </div>
 
                 <nav class= "col-start-2 col-end-4 m-2 py-4 px-8">
-                    <ul class="text-white flex justify-around ">
-                        <a class="px-4 py-2 mx-4 border-2 border-slate-200 rounded-lg font-medium hover:scale-105 duration-150 " href="fixed-appt-new.php">Vos rendez-vous</a>
+                    <ul class="text-white flex justify-between w-5/6 ">
+                        <a class="btn" href="fixed-appt-new.php">Vos rendez-vous</a>
                         
-                        <a class="px-4 py-2 mx-4 border-2 border-slate-200 rounded-lg font-medium hover:scale-105 duration-150" href="./log-out.php">Se déconnecter</a>
+                        <a class="btn" href="./log-out.php">Se déconnecter</a>
                         
-                        <a class="px-4 py-2 mx-4 border-2 border-slate-200 rounded-lg font-medium hover:scale-105 duration-150" href="./delete_perfil.php">Supprimer mon compte</a>
+                        <a class="btn" href="./delete_perfil.php">Supprimer mon compte</a>
                     </ul>
                 </nav>
             </div >
