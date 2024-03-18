@@ -26,10 +26,10 @@
             </div>
             <nav>
                 <ul class="text-white flex justify-end my-2 mx-4">
-                    <a href="#presentation" class="salut">Qui sommes nous</a>
-                    <a href="#treatment" class="px-4 py-2 mx-1 font-medium hover:border-b-2 border-slate-200 cursor-pointer duration-150 ">Traitements</a>
-                    <a href="#articles" class="px-4 py-2 mx-1 font-medium hover:border-b-2 border-slate-200 cursor-pointer duration-150 ">Articles</a>
-                    <a class="px-4 py-2 mx-1 border-2 border-slate-200 rounded-lg font-medium hover:scale-105 duration-150" href="./log-in.php">Prendre un rendez-vous</a>
+                    <a href="#presentation" class="link">Qui sommes nous</a>
+                    <a href="#treatment" class="link">Traitements</a>
+                    <a href="#articles" class="link">Articles</a>
+                    <a class="btn" href="./log-in.php">Prendre un rendez-vous</a>
                 </ul>
             </nav>
 
