@@ -29,7 +29,7 @@
                     <a href="#presentation" class="link">Qui sommes nous</a>
                     <a href="#treatment" class="link">Traitements</a>
                     <a href="#articles" class="link">Articles</a>
-                    <a class="px-4 py-2 mx-1 border-2 border-slate-200 rounded-lg font-medium hover:scale-105 duration-150" href="./log-in.php">Prendre un rendez-vous</a>
+                    <a class="btn" href="./log-in.php">Prendre un rendez-vous</a>
                 </ul>
             </nav>
 
